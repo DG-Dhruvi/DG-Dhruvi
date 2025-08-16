@@ -4,7 +4,7 @@
 - 💞️ I’m looking for interships (1st year students), Student Fellowships and collaborating with other people.
 - 📫 How to reach me - technerd.dg@gmail.com
 - 😄 Pronouns: Crazy, Adventurous, QuestionPoper
-- ⚡ Fun fact: I am starting college this year. And I want to do my masters from MIT
+- ⚡ Fun fact: I am sophmore. And I want to do my masters from MIT
 
 <!---
 DG-Dhruvi/DG-Dhruvi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
